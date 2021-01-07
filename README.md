@@ -14,7 +14,21 @@
 | 6 | Metrics | |
 | 6 | Convolutional Neural Networks | |
 | 7 | Deployment | |
+# Requirements
+* Basic Python
+* Linear Algebra
+* Statistics
 
+# Author
+**Mert Cobanov** 
+
+Data Scientist, AI Team Lead at Global AI Hub
+
+Join or [Discord Group](https://discord.gg/s7yhCvTcvK)
+
+Follow me on [Twitter](https://twitter.com/mertcobanov)
+
+# Videos
 ## Installation
 ### Gpu Installation
 ## Tensor Basics
